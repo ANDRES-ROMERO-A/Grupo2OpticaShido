@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grupo2Optica1.0", "Grupo2Optica1.0\Grupo2Optica1.0.csproj", "{BEC205AE-A46B-4DD8-B03A-F67FF325E5CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC205AE-A46B-4DD8-B03A-F67FF325E5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC205AE-A46B-4DD8-B03A-F67FF325E5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC205AE-A46B-4DD8-B03A-F67FF325E5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC205AE-A46B-4DD8-B03A-F67FF325E5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0217B3D1-02AD-44E4-B753-A3CF7F3EC94F}
+	EndGlobalSection
+EndGlobal
